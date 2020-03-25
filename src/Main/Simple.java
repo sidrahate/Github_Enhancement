@@ -7,6 +7,8 @@ public class Simple {
 		System.out.println("Hello my Name is Siddhesh Rahate");
 		
 		System.out.println("I am from Mumbai");
+		
+		System.out.println("xyzzy");
 	}
 
 }

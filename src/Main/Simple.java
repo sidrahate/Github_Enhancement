@@ -17,6 +17,8 @@ public class Simple {
 		System.out.println("Pull Request");
 		
 		System.out.println("Added restrictions on master branch Successfully...checked again");
+		
+		System.out.println("Testing ISsue");
 	}
 
 }
